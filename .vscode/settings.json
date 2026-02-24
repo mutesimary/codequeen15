@@ -1,0 +1,17 @@
+{
+    "remote.localPortHost": "allInterfaces",
+    "remote.portsAttributes": {
+        
+        
+          "40000-55000": {
+            "onAutoForward": "ignore"
+          }
+        
+        "443": {
+            "protocol": "https"
+        },
+        "8443": {
+            "protocol": "https"
+        }
+    }
+}
